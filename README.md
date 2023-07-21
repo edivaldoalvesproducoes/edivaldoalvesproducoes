@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá eu sou o Edivaldo Alves, desenvolvedor independente de jogos
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://edivaldoalves.itch.io/curucucu-aventuras)
 
-<!--
-**edivaldoalvesproducoes/edivaldoalvesproducoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Edivaldo Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=edivaldoalvesproducoes&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+## Minhas Ferramentas de Trabalho 🔭
+<div style="display: inline_block"><br/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Criando games Retros com tudo de bom que as novas tecnologias oferecem
+
+## Ultimas novidades:
