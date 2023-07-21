@@ -1,6 +1,6 @@
 ## Olá eu sou o Edivaldo Alves, desenvolvedor independente de jogos
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://curucucuaventuras.blogspot.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://curucucuaventuras.blogspot.com/)
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://curucucuaventuras.blogspot.com/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://edivaldoalves.itch.io/curucucu-aventuras)
 
